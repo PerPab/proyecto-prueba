@@ -71,9 +71,9 @@ const games = [
     category: "Playstation",
     description:
       "Ponte en la piel de Deacon St. John, errante y cazarrecompensas, y recorre un mundo despiadado donde impera la ley del más fuerte, devastado por una pandemia mortífera. Exponte a los riesgos de la carretera rota a lomos de tu fiel moto de errante mientras te enfrentas a enjambres de feroces engendros descerebrados… y humanos igualmente aterradores. El clima impredecible y el paso del día y la noche pueden provocar grandes peligros y sorpresas impactantes… y todo te quiere muerto.",
-    image: "https://psgames.com.ar/wp-content/uploads/2020/10/DAYS-GONE.jpg",
-    img1: "https://psgames.com.ar/wp-content/uploads/2020/10/DAYS-GONE-2.jpg",
-    img2: "https://psgames.com.ar/wp-content/uploads/2020/10/DAYS-GONE-4.jpg",
+    image: "https://media.vandal.net/t200/38421/days-gone-201912413193876_1.jpg",
+    img1: "https://estaticos-cdn.prensaiberica.es/clip/dc5baa42-d553-4df7-877a-04d1e7c2251f_16-9-aspect-ratio_default_0.jpg",
+    img2: "https://bloody-disgusting.com/wp-content/uploads/2019/04/daysgone-1.jpg",
     price: "29.99",
     stock: "8",
     title: "Days Gone",
